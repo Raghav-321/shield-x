@@ -1,0 +1,31 @@
+fastapi
+uvicorn
+
+pandas
+numpy
+scikit-learn
+
+matplotlib
+wordcloud
+reportlab
+python-docx
+
+praw
+requests
+python-dotenv
+
+transformers
+torch
+tokenizers
+
+tqdm
+
+# Core ML & NLP
+# torch>=2.0.0
+transformers
+sentence-transformers
+joblib
+
+# Language Detection & Translation
+langdetect
+deep-translator

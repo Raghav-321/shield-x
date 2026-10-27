@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+.env.example
+.env.debug
+.env.production
+.env.test
+.env.development
